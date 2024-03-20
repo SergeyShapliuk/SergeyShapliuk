@@ -24,7 +24,7 @@
 <div align="start">
 
  ### :man_technologist: About me:  
- - :zap:- I'm a based Front‑End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> focused on crafting clean & user‑friendly Single-page application (SPA).I am passionate about building excellent software that improves the lives of those around me.
+ - :zap:- I'm a based Front‑End Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> focused on crafting clean & user‑friendly Single-page application (SPA), PWA and mobile apps. I am passionate about building excellent software that improves the lives of those around me.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
