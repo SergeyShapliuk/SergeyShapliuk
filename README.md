@@ -66,8 +66,9 @@
 
 </div>
  <div id="Stats align="center>
- 
+
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=SergeyShapliuk)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=SergeyShapliuk)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyShapliuk&show_icons=true&theme=default)
 
 
