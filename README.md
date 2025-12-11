@@ -74,7 +74,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyShapliuk&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://raw.githubusercontent.com/SergeyShapliuk/github-stats/master/generated/languages.svg#gh-light-mode-only)
  </div>
 
 
