@@ -74,7 +74,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyShapliuk&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Card](https://githubcard.com/SergeyShapliuk.svg)](https://githubcard.com/SergeyShapliuk.svg?d=DF6SHLT-)
+[[![GitHub Card](https://githubcard.com/SergeyShapliuk.svg)](https://githubcard.com/SergeyShapliuk.svg?d=DF6SHLT-)](https://githubcard.com/SergeyShapliuk.svg?d=DF6SHLT-)
  </div>
 
 
