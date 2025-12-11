@@ -70,7 +70,7 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=SergeyShapliuk)](https://git.io/streak-stats)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=SergeyShapliuk)](https://git.io/streak-stats)
 
-[![Top Langs]([https://githubcard.com/SergeyShapliuk.svg?d=DF6SHLT-](https://githubcard.com/g/DF6SHLT-.svg))
+[![Top Langs](https://githubcard.com/g/DF6SHLT-.svg)
 
  </div>
 
