@@ -73,8 +73,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyShapliuk&show_icons=true&theme=transparent)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyShapliuk&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-[[![GitHub Card]([https://githubcard.com/SergeyShapliuk.svg)](https://githubcard.com/SergeyShapliuk.svg?d=DF6SHLT-](https://githubcard.com/SergeyShapliuk.svg?d=DF6SHLT-)]
+[![Top Langs](https://githubcard.com/SergeyShapliuk.svg?d=DF6SHLT-)](https://github.com/anuraghazra/github-readme-stats)
+
  </div>
 
 
