@@ -1,80 +1,257 @@
 <div id="header" align="center">
+
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+
   <div>
-<img src="https://komarev.com/ghpvc/?username=SergeyShapliuk&style=flat-square&color=blue" alt=""/>
-</div>
+    <img src="https://komarev.com/ghpvc/?username=SergeyShapliuk&style=flat-square&color=blue" alt="Profile views"/>
+  </div>
 
-<div id="badges" align="center">
-<a href="https://linkedin.com/in/siarhei-shapliuk-frontend-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.codewars.com/users/sergeyshapliuk">
-  <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/></a>
-  <a href="https://t.me/SergeShapliuk">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <div id="badges" align="center">
+
+    <a href="https://linkedin.com/in/siarhei-shapliuk-frontend-dev">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+
+    <a href="https://www.codewars.com/users/sergeyshapliuk">
+      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
+    </a>
+
+    <a href="https://t.me/SergeShapliuk">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+
+  </div>
+
   <h1>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I`m Sergey
-   <div>
-     <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200px"/>
-   </div>
+    Hey There
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Sergey
   </h1>
- </div>
- 
-<div align="start">
 
- ### :man_technologist: About me:  
- - :zap:- I'm a Front-end and Mobile Development specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with hands-on experience delivering complete solutions — from MVP to production — for both web and mobile platforms. I bring strong architectural thinking, deep technical skills, and a drive for clean, scalable code.
----
-
-### :hammer_and_wrench: Languages and Tools :
+  <div>
+    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200px"/>
+  </div>
 
 </div>
-
-<div id="skills align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="React-native" alt="React-native" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android studio" alt="Android studio" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" **alt="Xcode" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" **alt="Babel" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios" **alt="Axios" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" **alt="Yarn" width="50" height="50"/>&nbsp;
-</div>
-<div align="start">
 
 ---
 
-### :fire: My Stats :
+## 👨‍💻 About Me
+
+I'm a **React / React Native Developer** with 4+ years of commercial development experience.
+
+I build web and mobile applications from **MVP to production**, working across the full development lifecycle — from architecture and implementation to CI/CD, release and post-release improvements.
+
+My primary focus is **React Native and TypeScript**, with additional experience in **React, Node.js and backend development**.
+
+I enjoy working on complex product features, improving application architecture, and writing clean, maintainable and scalable code.
+
+---
+
+## 🛠️ Languages and Tools
+
+### Frontend & Mobile
+
+<div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+       title="React"
+       alt="React"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+       title="React Native"
+       alt="React Native"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+       title="TypeScript"
+       alt="TypeScript"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+       title="JavaScript"
+       alt="JavaScript"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       title="HTML5"
+       alt="HTML5"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       title="CSS3"
+       alt="CSS3"
+       width="50"
+       height="50"/>&nbsp;
 
 </div>
- <div id="Stats align="center>
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=SergeyShapliuk)](https://git.io/streak-stats)-->
+### State Management & UI
+
+<div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+       title="Redux"
+       alt="Redux"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+       title="Sass"
+       alt="Sass"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
+       title="Storybook"
+       alt="Storybook"
+       width="50"
+       height="50"/>&nbsp;
+
+</div>
+
+### Backend
+
+<div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
+       title="Node.js"
+       alt="Node.js"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+       title="NestJS"
+       alt="NestJS"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+       title="Express"
+       alt="Express"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+       title="PostgreSQL"
+       alt="PostgreSQL"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"
+       title="GraphQL"
+       alt="GraphQL"
+       width="50"
+       height="50"/>&nbsp;
+
+</div>
+
+### Mobile & Native Development
+
+<div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+       title="Android Studio"
+       alt="Android Studio"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"
+       title="Xcode"
+       alt="Xcode"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"
+       title="Gradle"
+       alt="Gradle"
+       width="50"
+       height="50"/>&nbsp;
+
+</div>
+
+### Tools & Infrastructure
+
+<div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
+       title="Git"
+       alt="Git"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+       title="Linux"
+       alt="Linux"
+       width="50"
+       height="50"/>&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
+       title="Firebase"
+       alt="Firebase"
+       width="50"
+       height="50"/>&nbsp;
+
+</div>
+
+---
+
+## 🚀 What I Work With
+
+- **React Native** — mobile applications for iOS and Android
+- **Expo / React Native CLI**
+- **React** — web applications
+- **TypeScript / JavaScript**
+- **React Navigation**
+- **Deep Linking**
+- **Redux / application state management**
+- **Node.js / NestJS**
+- **REST API / GraphQL**
+- **PostgreSQL**
+- **Firebase**
+- **CI/CD and application releases**
+- **Git / GitHub**
+- **Mobile debugging and native tooling**
+- **Application architecture and scalable codebases**
+
+---
+
+## 🧠 Engineering
+
+I focus not only on implementing features, but also on understanding the system behind them:
+
+- Application architecture
+- Component and module design
+- SOLID principles
+- Separation of concerns
+- API integration
+- State management
+- Client–server architecture
+- Error handling
+- Performance optimization
+- Maintainable and scalable code
+- CI/CD and production releases
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=SergeyShapliuk)](https://git.io/streak-stats)
 
+</div>
 
+---
 
- </div>
+<div align="center">
 
+### Thanks for visiting my profile! 👋
 
-
-
-
+</div>
